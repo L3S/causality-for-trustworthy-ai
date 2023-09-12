@@ -104,7 +104,7 @@
 
   - **[MNIST](http://yann.lecun.com/exdb/mnist/)** \[[26](#ref-lecun1998gradient)\]:
     An extraordinarily well-known and widely used image dataset
-    comprising 28 \(\times\) 28 grayscale images of handwritten digits.
+    comprising 28 &times; 28 grayscale images of handwritten digits.
     It contains 60,000 training and 10,000 test samples.
     <span>&#10230;</span> **Used by**: \[[46](#ref-Schwab2019)\]
 
@@ -257,7 +257,7 @@
 
   - **[CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)** \[[29](#ref-liu2015faceattributes)\]:
     A face image dataset containing 202,599 images of size 178
-    \(\times\) 218 from 10,177 unique celebrities. Each image is
+    &times; 218 from 10,177 unique celebrities. Each image is
     annotated with 40 binary facial attributes (e.g., *Is this person
     smiling?*) and five landmark positions describing the 2D position of
     the eyes, the nose, and the mouth (split into *left* and *right*

@@ -54,7 +54,7 @@
   - **[CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html)** \[[14](#ref-krizhevsky2009learning)\]:
     The two CIFAR datasets, CIFAR-10 and CIFAR-100, are labeled images
     stemming from the now withdrawn Tiny Images dataset[^1]. The more
-    prominent set, CIFAR-10, contains 60000 32 \(\times\) 32 color
+    prominent set, CIFAR-10, contains 60000 32 &times; 32 color
     images separated into ten mutually exclusive classes, with 6000
     images per class. CIFAR-100 is simply a 100-class version of
     CIFAR-10. <span>&#10230;</span> **Used

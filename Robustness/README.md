@@ -162,7 +162,7 @@
   - **[CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html)** \[[30](#ref-krizhevsky2009learning)\]:
     The two CIFAR datasets, CIFAR-10 and CIFAR-100, are labeled images
     stemming from the now withdrawn Tiny Images dataset[^6]. The more
-    prominent set, CIFAR-10, contains 60000 32 \(\times\) 32 color
+    prominent set, CIFAR-10, contains 60000 32 &times; 32 color
     images separated into ten mutually exclusive classes, with 6000
     images per class. CIFAR-100 is simply a 100-class version of
     CIFAR-10. <span>&#10230;</span> **Used
@@ -272,7 +272,7 @@
 
   - **[MNIST](http://yann.lecun.com/exdb/mnist/)** \[[33](#ref-lecun1998gradient)\]:
     An extraordinarily well-known and widely used image dataset
-    comprising 28 \(\times\) 28 grayscale images of handwritten digits.
+    comprising 28 &times; 28 grayscale images of handwritten digits.
     It contains 60,000 training and 10,000 test samples.
     <span>&#10230;</span> **Used
     by**: \[[38](#ref-little2019causal),[67](#ref-zhang2020causal),[69](#ref-zhang2021causaladv)\]

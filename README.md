@@ -1,5 +1,12 @@
 # A Review of the Role of Causality in Developing Trustworthy AI Systems – Datasets and Packages
 
+<p align="center">
+
+| ![](images/causal_ai_competition_resized.png)|
+|:---:|
+| Special thanks to our colleague **Alina Nekrasova** for designing this great figure!| 
+</p>
+
 This repository is a curated list of datasets used for recent Causal Machine Learning (ML) publications we covered in our [survey](https://arxiv.org/abs/2302.06975). It also includes an overview of useful causal and non-causal tools and packages to assess different characteristics of ML models (e.g., robustness or fairness) and for use in healthcare. We also provide slides that summarize the use of Causality for each discussed aspect of Trustworthy AI (see [here](Slides) for more information).
 
 Feedback is welcome, so don't hesitate to reach out if you have any questions or comments. Simply send an e-mail to dren.fazlija@l3s.de
